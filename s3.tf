@@ -1,4 +1,4 @@
-
+#resourse to create s3 bucket and upload images to the bucket
 resource "aws_s3_bucket" "tf_s3_bucket" {
   bucket = "nodejsterraformbucket-123456" # add a unique suffix to ensure global uniqueness
 
