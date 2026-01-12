@@ -1,5 +1,5 @@
 /*
-1. ec2 instance resource
+1. ec2 instance resourcee
 2. new security group resource
     - 22 (ssh) 
     - 443 (https)
